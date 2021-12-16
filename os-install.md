@@ -13,7 +13,7 @@ chmod 440 /etc/sudoers
 
 [驱动下载链接](https://epson.com/support/wa00821)
 
-驱动备份
+[驱动备份](./epson-print)
 
 ## 修改用户密码
 
