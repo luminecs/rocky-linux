@@ -1,4 +1,4 @@
-# rocky-linux
+# Rocky Linux 使用总结
 
 ## 把用户添加到 root 用户
 
