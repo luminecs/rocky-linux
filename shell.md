@@ -12,7 +12,14 @@ sudo fdisk -l
 
 ## 挂载磁盘
 
-mount /dev/sdb /mnt/sdb
+mount /dev/sdb1 /mnt/sdb1
+
+设置开机自动挂载
+
+修改 `/etc/fstab` 文件，追加一行
+```
+/dev/sdb1               /mnt/sdb1               xfs     defaults        1 2
+```
 
 ## 压缩、解压
 
